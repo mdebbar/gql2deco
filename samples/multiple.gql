@@ -1,0 +1,13 @@
+query ABC {
+  abc(as:"foo") {
+    me
+    you
+    we
+  }
+}
+
+query DEF {
+  def
+  mno
+  xyz
+}

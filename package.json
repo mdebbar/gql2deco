@@ -1,0 +1,7 @@
+{
+  "name": "gql2deco",
+  "version": "1.0.0",
+  "dependencies": {
+    "graphql": "^0.13.1"
+  }
+}

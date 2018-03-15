@@ -1,0 +1,16 @@
+query XYZ {
+  xyz {
+    a
+    a
+    b
+    c {
+      d
+    }
+    ...on User {
+      id
+    }
+    ...on Company {
+      name
+    }
+  }
+}
